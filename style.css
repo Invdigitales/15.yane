@@ -181,7 +181,9 @@
   .seccion-regalo{
     margin-top: -5%;
   }
-  
+  .seccion-tarjeta{
+    margin-top: 19%;
+  }
   .frase {
     text-align: center;
     font-size: 30px;
@@ -221,6 +223,12 @@
     margin-top: -15%;
     
   }
+  .tarjeta{
+    width: 15%;
+    margin-left: 44%;
+    margin-top: -15%;
+    
+  }
   .form{
     width: 14%;
     margin-left: 45%;
@@ -237,10 +245,30 @@
     font-weight: 600;
          
   }
-  
+  .parrafopago{
+    text-align: center;
+    font-size: 17px;
+    color: #636363;
+    margin-top: 10%; 
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: 600;
+         
+  }
+  .parrafopago span{
+    text-align: center;
+    font-size: 17px;
+    color: #d9958c;
+    margin-top: 10%; 
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: 700;
     
+  }
    
-
+.yane{
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 10%;
+}
     .ubicacion {
       padding: 2px 10px;
       font-family: "Arsenal SC", sans-serif;
